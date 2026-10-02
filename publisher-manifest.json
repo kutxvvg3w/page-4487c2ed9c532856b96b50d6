@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1ec9342fe04c5f665b24fa84",
+  "owner": "kutxvvg3w",
+  "repo": "page-4487c2ed9c532856b96b50d6",
+  "title": "歪兔(YToo)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4487c2ed9c532856b96b50d6",
+      "a": "歪兔(YToo)",
+      "b": "",
+      "entity": "歪兔(YToo)",
+      "brand": "歪兔(YToo)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "58d2a1103a2d5be0560ee62897faf2df674a8c9232cf07358736782a33c65b22",
+      "content": {
+        "keyword1": "歪兔(YToo)",
+        "keyword2": "",
+        "primary_entity": "歪兔(YToo)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "歪兔(YToo)提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，支持基础版、旗舰版与团队版套餐。",
+          "AI_DESCRIPTION": "歪兔(YToo)提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，支持基础版、旗舰版与团队版套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}body{margin:0;background:#f3f0f7;color:#1e1630;font:16px/1.75 -apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}header,footer{background:#fff;border-color:#e6def2;border-style:solid}header{border-bottom-width:1px;padding:14px 0}footer{border-top-width:1px;padding:24px 0;margin-top:28px;color:#5c5470;font-size:14px}.wrap{max-width:1080px;margin:0 auto;padding:0 16px}nav{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:14px}h1{font-size:1.7rem;line-height:1.35;color:#4c1d95;margin:20px 0 12px}h2{font-size:1.28rem;color:#3b0764;margin:28px 0 12px;padding-left:10px;border-left:4px solid #7c3aed}h3{font-size:1.05rem;color:#4c1d95;margin:16px 0 8px}p,li{color:#2a2340}.lead{font-size:1.02rem;color:#3f3558}.cols{display:flex;flex-wrap:wrap;gap:16px}.col{flex:1 1 280px;background:#fff;border:1px solid #e6def2;border-radius:10px;padding:16px 18px}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 250px;background:#fff;border:1px solid #e6def2;border-radius:12px;padding:18px}.plan.featured{border:2px solid #7c3aed;background:#faf5ff}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.45rem;font-weight:700;color:#5b21b6}.annual{color:#5c5470;font-size:14px;margin:4px 0 10px}.plan ul{margin:0;padding-left:18px}.cta{display:inline-block;margin-top:12px;padding:8px 14px;background:#5b21b6;color:#fff;border-radius:8px}.cta:hover{text-decoration:none;background:#4c1d95}details{background:#fff;border:1px solid #e6def2;border-radius:8px;padding:10px 14px;margin:0 0 8px}summary{font-weight:600;color:#3b0764}details p{margin:8px 0 0}.note{background:#fff;border:1px solid #e6def2;border-radius:10px;padding:14px 16px}.muted{color:#5c5470;font-size:14px}.list a{display:inline-block;margin:0 12px 8px 0}ol{padding-left:22px}@media (max-width:640px){h1{font-size:1.45rem}body{font-size:16px}.plan,.col{flex-basis:100%}}</style><header><div class=\"wrap\"><strong>歪兔(YToo) 官网</strong><nav aria-label=\"页面导航\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作信息</a><a href=\"#links\">友情链接</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>歪兔(YToo) 官方网站</h1><p class=\"lead\">歪兔(YToo)是面向个人与团队的机场订阅与 VPN 梯子服务，提供网络加速、流媒体解锁和多端客户端下载入口。本页集中说明套餐、使用方式与官方下载指引，便于按设备完成订阅导入与连接。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"cols\"><article class=\"col\"><h3>服务定位</h3><p>歪兔(YToo)把机场订阅、节点调度和客户端配置放在同一套说明里：用户选择套餐后获取订阅地址，再在 Clash、Shadowrocket、Surge、sing-box 等客户端中导入，即可按地区与用途切换线路。服务强调可预期的流量配额、同时在线设备数，以及基础流媒体到原生解锁的分层能力。</p><p>官方网站只提供公开说明与锚点导航，不捆绑不明安装包。客户端请从对应应用商店或开发者站点获取，再用歪兔(YToo)订阅完成配置。</p></article><article class=\"col\"><h3>能力分层</h3><p>基础版覆盖日常网页与轻量影音；旗舰版提高流量与设备上限，并加入全节点原生流媒体与 IPLC 游戏向优化；团队版面向多人共享与定制路由。三档价格按月展示，同时给出按年付对应总额，便于对照。</p><p>线路包含普通节点池与更高带宽的专属节点。实际延迟取决于本地运营商与目标站，连接前建议在客户端内测速并保留备用节点。</p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article class=\"col\"><h3>跨境办公与资料</h3><p>远程协作、代码仓库、文档云盘与会议工具对链路稳定更敏感。旗舰版与团队版更适合长时间在线；基础版可用于偶发访问。请将系统代理模式与规则分流分开设置，避免内网办公地址被误伤。</p></article><article class=\"col\"><h3>流媒体与内容研究</h3><p>基础版解锁基础流媒体；旗舰版强调全节点原生解锁，适合需要切换地区片库的用户。播放失败时先更换对应地区节点，并确认客户端 DNS 与 Fake-IP 设置没有冲突。</p></article><article class=\"col\"><h3>游戏与实时通讯</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对抖动敏感的对战与语音。团队版提供 VIP 高带宽节点，便于多人同时高峰使用。游戏加速仍需遵守游戏与当地网络规范，本站只说明连接方式。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为歪兔(YToo)当前公开套餐。流量为每月额度，周期结束后按套餐规则重置；设备数为同时在线上限。年付金额为 12 个月一次性结算对应价。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"cta\" href=\"#guide\">查看开通步骤</a></article></div></section><section id=\"guide\"><h2>操作说明</h2><h3>开通与订阅</h3><ol><li>在<a href=\"#plans\">套餐对比</a>中确认流量、设备数与流媒体需求，选择基础版、旗舰版或团队版。</li><li>完成结算后，在用户中心复制机场订阅链接（通常为 Clash / 通用订阅地址）。</li><li>按设备安装客户端，将订阅粘贴到「配置 / 订阅 / Profiles」并更新节点列表。</li><li>选择规则模式（推荐分流）或全局模式，指定一个延迟较低的节点后开启系统代理。</li><li>用浏览器访问目标站点验证；若失败，切换节点或检查系统时间、DNS 与杀毒软件拦截。</li></ol><div class=\"note\" id=\"download\"><h3>客户端下载指引</h3><p>歪兔(YToo)官方下载指的是「订阅可用、协议匹配」的客户端组合，而不是来路不明的一键安装包。请按系统选择：</p><ul><li>Windows / macOS：Clash 系图形客户端或 sing-box 图形前端，导入订阅后启用 TUN 或系统代理。</li><li>Android：Clash Meta 类客户端，授予 VPN 权限后更新配置。</li><li>iOS：Shadowrocket、Stash、Quantumult 等支持订阅的应用（需自行在对应商店获取）。</li><li>路由器与网关：在支持的固件中填写订阅，仅建议团队版用户在确认带宽后再部署。</li></ul><p class=\"muted\">本页不托管安装文件。若页面引导你下载可执行文件，请回到歪兔(YToo)官网锚点重新核对应流程。</p></div><h3>日常维护</h3><p>流量将尽时减少大文件与 4K 播放；设备超限时先在客户端断开闲置会话。节点更新后如出现证书或端口变化，删除旧配置再重新导入订阅。团队版如需定制分流，把内网网段与办公域名加入直连规则。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>歪兔(YToo)是机场还是传统 VPN？</summary><p>歪兔(YToo)以机场订阅为主：一次订阅可在多款客户端中拉取节点，协议更灵活，也便于按规则分流。它同样承担梯子与网络加速角色，但配置方式不同于单一 App 内置账号的传统 VPN。按本页操作说明导入订阅即可使用。</p></details><details><summary>如何完成官网下载与客户端配置？</summary><p>先在本站确认套餐与设备数，再前往各系统官方应用来源安装客户端，最后把歪兔(YToo)订阅地址导入。所谓官网下载是流程说明，不是第三方打包站。导入成功后更新一次节点，选择规则模式再连接。</p></details><details><summary>三个套餐该怎么选？</summary><p>轻度浏览与三台设备以内选基础版（每月 100GB）。需要原生流媒体、游戏向 IPLC 和五台设备选旗舰版（每月 300GB）。二十台设备、千 GB 流量或需要定制路由与专属客户经理选团队版。年付对应总额已在套餐卡片标明。</p></details><details><summary>连接成功但网站打不开怎么办？</summary><p>依次检查：系统时间是否准确、订阅是否过期、当前节点是否被目标站限制、规则是否把该域名误判为直连。可临时改用全局模式验证，再回到分流。流媒体请换对应地区原生节点，并避免与系统自带 VPN 叠加。</p></details><details><summary>流量与设备超限会怎样？</summary><p>达到当月流量后新连接会被限制，需等待重置或升级套餐。超过同时在线设备数时，新设备无法握手，断开闲置终端即可。团队版适合共享，但仍建议为关键设备保留独立配置，避免互相顶号。</p></details><details><summary>是否提供发票或对公说明？</summary><p>团队版含专属客户经理，适合需要路由定制与对公沟通的组织。个人套餐以自助订阅为主。具体开票字段与合同以结算页展示为准，本页仅说明服务分层，不替代订单条款。</p></details></section><section id=\"ads\"><h2>合作信息</h2><p>广告与渠道合作仅通过官网公示入口洽谈，不在客户端内插入来路不明的推广包。若你看到冒用「歪兔(YToo)官方下载」的安装器或要求额外授权无障碍权限的应用，请停止安装并回到本页核对步骤。</p><p class=\"muted\">展示位：品牌合作 / 工具导航互换，文字链形式，不使用弹窗与自动跳转。</p></section><section id=\"links\"><h2>友情链接</h2><p class=\"list\"><a href=\"#\">客户端兼容说明</a><a href=\"#guide\">订阅导入教程</a><a href=\"#plans\">套餐一览</a><a href=\"#faq\">帮助中心</a><a href=\"#sitemap\">站点地图</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"list\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作信息</a><a href=\"#links\">友情链接</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>歪兔(YToo) 官方网站 · 机场订阅与 VPN 梯子网络加速说明页</p><p class=\"muted\">请遵守所在地法律法规与服务条款。本页为静态说明，不含脚本、表单与外部资源。</p></div></footer>",
+          "hash": "b59f3bd0b44445106d447ef3b868933c3bd81192dcf18f98d404f7ba21b5dddc",
+          "seo": {
+            "title": "歪兔(YToo)官方网站 - 机场订阅VPN梯子网络加速与客户端下载",
+            "keywords": "歪兔,YToo,歪兔机场,歪兔VPN,YToo机场,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "歪兔(YToo)提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，支持基础版、旗舰版与团队版套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chonganjob.cn",
+    "host": "p-0cee11aa2f.chonganjob.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "chonganjob.cn",
+      "url": "https://chonganjob.cn/",
+      "label": "oixCloud",
+      "apex": "chonganjob.cn",
+      "kind": null,
+      "identity": "ysydkjm/page-335fcf226bd5dabf72ead69b"
+    },
+    {
+      "host": "couobzh.cn",
+      "url": "https://couobzh.cn/",
+      "label": "歪兔(YToo)",
+      "apex": "couobzh.cn",
+      "kind": null,
+      "identity": "jxedmwqn/page-fc32ee0755d14e215682ee36"
+    },
+    {
+      "host": "fnjjn.cn",
+      "url": "https://fnjjn.cn/",
+      "label": "歪兔(YToo)",
+      "apex": "fnjjn.cn",
+      "kind": null,
+      "identity": "ynw8vu9/page-851a18a89f72b3b2150fdb0d"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "644350d89d33cf3c2f0d0b971d2db788dd78be4fb3da155367d400948e7686cc",
+    "sitemap.xml": "5e5498da2469b06c52bdfb2b85c20d485033b8d8d5f28edd33d3b153bfbf6cdd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6550cc2b854090c0942f01d7e94df8596ccb70e92dfd54c67623b2f7fa89db99",
+    "robots.txt": "3508e4196d480cdb43bec66e2eeb3912a31ac843768c8f26e78e27d297aa4d67",
+    "43d4a8e0ebcf002cffbf7fecf9e30d03.txt": "f78b36fa031468457e3d0a9c0aaf7b03947be5dc2594a05f8dd513e50c01e862"
+  },
+  "revision": "5474a63c5f0bd44368b35c868011ae7e26077da89873f22272ff35cbc56d9912"
+}
